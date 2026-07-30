@@ -1,0 +1,2 @@
+import VariationalMethodsAppliedPdesCanonicalLaneLean.GateLemmas
+import VariationalMethodsAppliedPdesCanonicalLaneLean.FinalTheorem
